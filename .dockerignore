@@ -1,0 +1,10 @@
+**/__pycache__/
+**/.vscode/
+/.git/
+/venv/
+/.dockerignore
+/.editorconfig
+/.gitignore
+/Dockerfile
+/fly.toml
+/README.md
